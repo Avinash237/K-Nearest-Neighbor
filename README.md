@@ -1,0 +1,2 @@
+# K-Nearest-Neighbor
+ K-nearest neighbor is a non-parametric lazy learning algorithm, used for both classification and regression. KNN stores all available cases and classifies new cases based on a similarity measure. The KNN algorithm assumes that similar things exist in close proximity. In other words, similar things are near to each other. When a new situation occurs, it scans through all past experiences and looks up the k closest experiences. Those experiences (or: data points) are what we call the k nearest neighbors.
